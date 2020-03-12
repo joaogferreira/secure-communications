@@ -1,6 +1,6 @@
 # Secure Communications
 
-This project is a Python library for dealing with word pluralization.
+This project is a Python projecto for dealing with file transfers using TCP / IP sockets. It has only 2 commits because the project wasn't in a repository...
 
 ## Motivation
 
