@@ -1,6 +1,6 @@
 # Secure Communications
 
-This project is a Python project for dealing with file transfers using TCP / IP sockets. It has only a few commits because the project wasn't in a repository...
+This project is a Python project for dealing with file transfers using TCP / IP sockets.
 
 ## Motivation
 
