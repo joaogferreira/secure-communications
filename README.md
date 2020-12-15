@@ -29,7 +29,7 @@ Please make sure to update tests as appropriate.
 
 ## Authors
 João Ferreira (jgmpof@gmail.com)  
-João Magalhães (not available yet)
+João Magalhães (ricardo.magalhaes469@gmail.com)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
